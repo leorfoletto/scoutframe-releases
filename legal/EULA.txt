@@ -1,0 +1,117 @@
+CONTRATO DE LICENCA DE USO DE SOFTWARE — ScoutFrame
+
+Versao 1.1 — 2026-07-27
+
+Fornecedor: Leonardo Rezende Foletto — CPF 177.285.777-78
+Endereco: Contato pelo e-mail analyticsfutbr@gmail.com
+Contato: analyticsfutbr@gmail.com
+
+Ao instalar ou usar o ScoutFrame, voce concorda com este contrato. Se nao
+concordar, nao instale o programa.
+
+
+1. LICENCA CONCEDIDA
+
+O Fornecedor concede a voce uma licenca de uso pessoal, intransferivel, nao
+exclusiva e TEMPORARIA do ScoutFrame, valida enquanto durar a assinatura
+contratada e limitada a 2 dispositivos simultaneos.
+
+Este contrato NAO transfere a propriedade do programa. O codigo, a marca e os
+elementos graficos do ScoutFrame permanecem do Fornecedor.
+
+
+2. VERIFICACAO DE LICENCA PELA INTERNET
+
+O ScoutFrame verifica periodicamente pela internet se a sua licenca esta ativa.
+Voce concorda expressamente com essa verificacao, que e condicao de
+funcionamento do programa.
+
+O programa opera sem internet por ate 14 dias. Apos esse
+periodo sem validacao, o acesso e suspenso ate a proxima conexao bem-sucedida.
+
+Nenhum video, imagem, audio ou projeto seu e transmitido. Veja a Politica de
+Privacidade em Ajuda > Avisos legais e licencas.
+
+
+3. SUSPENSAO DO ACESSO
+
+O acesso pode ser suspenso em caso de falta de pagamento (apos
+7 dias de tolerancia e aviso), termino de
+periodo gratuito ou promocional (com aviso previo de
+30 dias), cancelamento, ou violacao deste
+contrato.
+
+A suspensao atinge o uso do programa, nunca os seus arquivos: videos, projetos e
+exportacoes permanecem gravados no seu computador.
+
+
+4. RESTRICOES
+
+E vedado copiar, distribuir, revender, alugar ou sublicenciar o programa; fazer
+engenharia reversa, descompilar ou modificar o programa, salvo no limite
+expressamente permitido em lei; remover avisos de autoria, marca ou licenca; e
+burlar a verificacao de licenca ou os limites de ativacao.
+
+
+5. CONTEUDO DO USUARIO
+
+O ScoutFrame e uma ferramenta de edicao de uso geral que roda inteiramente no
+seu computador. O Fornecedor nao hospeda, nao transmite, nao armazena e nao tem
+qualquer acesso ao material que voce importa ou produz.
+
+Voce e o unico responsavel pelos videos, imagens e audios que importa e pelo que
+publica a partir deles, e declara ter os direitos necessarios sobre esse
+material ou estar amparado por limitacao legal ao direito autoral. Imagens de
+partidas transmitidas costumam ser protegidas por direitos autorais e de arena
+(art. 87 da Lei 9.615/1998), e estarem disponiveis na internet nao significa que
+possam ser reutilizadas.
+
+Se um terceiro acionar o Fornecedor por causa de conteudo que voce tratou com o
+ScoutFrame, voce assume a responsabilidade perante esse terceiro e reembolsa o
+Fornecedor pelo que ele desembolsar, inclusive custas e honorarios. Detalhes na
+clausula 9 dos Termos de Uso.
+
+
+6. GARANTIA E RESPONSABILIDADE
+
+O Fornecedor responde pelos vicios do produto nos termos do Codigo de Defesa do
+Consumidor. Fora disso, o programa e fornecido "no estado em que se encontra",
+sem garantia de funcionamento com todo e qualquer arquivo ou configuracao de
+computador. Faca backup dos seus arquivos.
+
+Na maxima extensao permitida em lei, a responsabilidade total do Fornecedor
+limita-se ao valor pago por voce nos 12 meses anteriores ao evento. Nada aqui
+afasta direitos inafastaveis do Codigo de Defesa do Consumidor.
+
+
+7. DIREITO DE ARREPENDIMENTO
+
+Contratacoes feitas pela internet podem ser desfeitas em ate
+7 dias corridos, com devolucao integral do valor
+pago (art. 49 do Codigo de Defesa do Consumidor). Solicite por
+analyticsfutbr@gmail.com.
+
+
+8. PROGRAMAS DE TERCEIROS
+
+O ScoutFrame inclui componentes de terceiros sob suas proprias licencas, entre
+eles o FFmpeg, distribuido sob a GNU Lesser General Public License versao 3
+(LGPL v3) e executado como processo separado, sem modificacoes.
+
+A LGPL v3 lhe garante o direito de obter o codigo-fonte correspondente do FFmpeg
+e de substituir os executaveis ffmpeg.exe e ffprobe.exe por versoes proprias — os
+arquivos ficam na pasta de instalacao e podem ser trocados livremente.
+
+A lista completa dos componentes, os textos das licencas e os enderecos dos
+codigos-fonte estao no arquivo THIRD_PARTY_NOTICES.txt, na pasta de instalacao, e
+no aplicativo em Ajuda > Avisos legais e licencas.
+
+
+9. LEI APLICAVEL E FORO
+
+Aplica-se a lei brasileira. Fica eleito o foro do domicilio do consumidor,
+conforme o art. 101, I, do Codigo de Defesa do Consumidor.
+
+
+Leonardo Rezende Foletto
+analyticsfutbr@gmail.com
