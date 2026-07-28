@@ -20,10 +20,11 @@ conforme detalhado abaixo.
 
 | | |
 |---|---|
-| Controlador | Leonardo Rezende Foletto — CPF 177.285.777-78 |
-| Endereço | Contato pelo e-mail analyticsfutbr@gmail.com |
 | Encarregado (DPO) | Atendimento por analyticsfutbr@gmail.com — agente de tratamento de pequeno porte, dispensado de indicar encarregado nos termos da Resolução CD/ANPD nº 2/2022, mantido este canal com o titular |
 | Canal para assuntos de privacidade | **analyticsfutbr@gmail.com** |
+
+A identificação completa do controlador (nome e CPF) está no
+**item 12, ao final deste documento**.
 
 ## 3. Dados que tratamos
 
@@ -147,6 +148,15 @@ intencionalmente dados de crianças e adolescentes.
 Mudanças relevantes serão comunicadas por e-mail e/ou dentro do aplicativo com
 antecedência de 30 dias. A versão vigente está sempre
 disponível em **Ajuda → Avisos legais e licenças**.
+
+## 12. Identificação do controlador
+
+| | |
+|---|---|
+| Controlador | Leonardo Rezende Foletto |
+| CPF | 177.285.777-78 |
+| Endereço | Contato pelo e-mail analyticsfutbr@gmail.com |
+| Contato | analyticsfutbr@gmail.com |
 
 ---
 

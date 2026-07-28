@@ -10,11 +10,11 @@ um contrato com o Fornecedor abaixo.
 | | |
 |---|---|
 | Produto | ScoutFrame (Analytics FutBR) |
-| Fornecedor | Leonardo Rezende Foletto |
-| CPF | 177.285.777-78 |
-| Endereço | Contato pelo e-mail analyticsfutbr@gmail.com |
 | Atendimento | analyticsfutbr@gmail.com |
 | Página oficial | https://github.com/leorfoletto/scoutframe-releases |
+
+A identificação completa do Fornecedor (nome e CPF) está no
+**item 16, ao final deste documento**.
 
 ## 2. O que você contrata
 
@@ -213,6 +213,15 @@ cancelar sem custo antes da entrada em vigor.
 
 Aplica-se a lei brasileira. Fica eleito o foro do domicílio do consumidor para
 dirimir controvérsias, conforme o art. 101, I, do Código de Defesa do Consumidor.
+
+## 16. Identificação do Fornecedor
+
+| | |
+|---|---|
+| Fornecedor | Leonardo Rezende Foletto |
+| CPF | 177.285.777-78 |
+| Endereço | Contato pelo e-mail analyticsfutbr@gmail.com |
+| Contato | analyticsfutbr@gmail.com |
 
 ---
 

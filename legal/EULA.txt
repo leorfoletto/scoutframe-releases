@@ -2,9 +2,8 @@ CONTRATO DE LICENCA DE USO DE SOFTWARE — ScoutFrame
 
 Versao 1.1 — 2026-07-27
 
-Fornecedor: Leonardo Rezende Foletto — CPF 177.285.777-78
-Endereco: Contato pelo e-mail analyticsfutbr@gmail.com
 Contato: analyticsfutbr@gmail.com
+Identificacao completa do Fornecedor: ao final deste contrato.
 
 Ao instalar ou usar o ScoutFrame, voce concorda com este contrato. Se nao
 concordar, nao instale o programa.
@@ -113,5 +112,9 @@ Aplica-se a lei brasileira. Fica eleito o foro do domicilio do consumidor,
 conforme o art. 101, I, do Codigo de Defesa do Consumidor.
 
 
-Leonardo Rezende Foletto
-analyticsfutbr@gmail.com
+10. IDENTIFICACAO DO FORNECEDOR
+
+Fornecedor: Leonardo Rezende Foletto
+CPF: 177.285.777-78
+Endereco: Contato pelo e-mail analyticsfutbr@gmail.com
+Contato: analyticsfutbr@gmail.com
